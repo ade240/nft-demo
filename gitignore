@@ -1,0 +1,6 @@
+__pychace__
+.history
+.hypothesis/
+build/
+reports/
+.env
